@@ -1,20 +1,20 @@
-# Simulador de Caixa Eletrônico
+# **ATM Simulator**
 
-O **Simulador de Caixa Eletrônico** é um projeto prático desenvolvido em **C++**, que permite:
+The **ATM Simulator** is a practical project developed in **C++**, which allows:
 
-- Verificar saldo;
-- Realizar depósitos;
-- Efetuar saques com validações para garantir segurança e funcionalidade.
+- Check balance;
+- Make deposits;
+- Perform withdrawals with validations to ensure security and functionality.
 
-Este projeto utiliza uma interface simples no terminal, sendo ideal para **consolidar conceitos de algoritmos e lógica de programação**. Além disso, possui **potencial para futuras expansões**, como a inclusão de novas operações e integração com bancos de dados.
+This project uses a simple terminal interface, making it ideal for **consolidating concepts of algorithms and programming logic**. Additionally, it has **potential for future expansions**, such as adding new operations and integrating with databases.
 
-## Funcionalidades
+## Features
 
-- **Verificar Saldo:** Consulte o saldo disponível na conta bancária.
-- **Depositar Saldo:** Adicione valores à conta com validação de entradas.
-- **Sacar Saldo:** Realize saques com validação de saldo suficiente.
+- **Check Balance:** View the available balance in the bank account.
+- **Deposit Balance:** Add funds to the account with input validation.
+- **Withdraw Balance:** Make withdrawals with sufficient balance validation.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- Linguagem: **C++**
+- Language: **C++**
 - Interface: **Terminal**

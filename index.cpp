@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <string>
-#include "functionsheader.h"
+#include "header.h"
 
 int main() 
 {
@@ -14,7 +14,7 @@ int main()
     Account.AccountNumber = 10000 + std::rand() % 90000; // Generate a random number between 10000 and 99999 using function std::rand
 
     // Input for user to enter their name
-    std::cout << "Digite seu nome: ";
+    std::cout << "Type your name: ";
     std::cin >> Account.TitularName;
 
     //Displays the menu

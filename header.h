@@ -1,5 +1,5 @@
-#pragma once
 #include <string>
+#pragma once
 
 // Structure to represent a bank account
 struct BankAccount 
@@ -10,7 +10,7 @@ struct BankAccount
 };
 
 // Function prototypes or declarations
-void CheckBalance(const BankAccount &Conta);
-void DepositBalance(BankAccount &Conta);
-void WhithdrawBalance(BankAccount &Conta);
-void ShowMenu(BankAccount &Conta);
+void CheckBalance(const BankAccount &Account);
+void DepositBalance(BankAccount &Account);
+void WithdrawBalance(BankAccount &Account);
+void ShowMenu(BankAccount &Account);

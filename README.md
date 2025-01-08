@@ -16,5 +16,6 @@ This project uses a simple terminal interface, making it ideal for **consolidati
 
 ## Technologies Used
 
-- Language: **C++**
+- Language: 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - Interface: **Terminal**
